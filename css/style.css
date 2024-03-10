@@ -8,7 +8,7 @@
 }
 body{
     min-height: 100vh;
-    background: rgb(39, 35, 35);
+    background-image: url(./Sujan.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
