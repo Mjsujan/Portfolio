@@ -8,12 +8,12 @@
 }
 body{
     min-height: 100vh;
-    background-image: url(./Sujan.jpg);
+    background-image: url(/sujan1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
+
 header{
     
     width: 100%;
@@ -129,17 +129,17 @@ section{
     gap: 15px;
 }
 .social a{
-    color: #fff;
+    color: #000000;
     font-size: 20px;
     display: inline-flex;
     width: 40px;
     height: 40px;
-    border: 2px solid #fff;
+    border: 2px solid #000000;
     justify-content: center;
     align-items:center;
     border-radius: 50%;
     transition: .2s ease;
-    box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #000000;
 
 }
 .social a:hover{
