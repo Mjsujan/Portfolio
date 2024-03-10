@@ -8,7 +8,7 @@
 }
 body{
     min-height: 100vh;
-    background-image: url(/sujan1.jpg);
+    background-image: url('./sujan1.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
